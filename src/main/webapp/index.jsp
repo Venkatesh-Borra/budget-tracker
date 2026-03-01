@@ -57,7 +57,7 @@
 
 <div class="container">
 
-    <h1>Welcome, <%= user %></h1>
+    <h1>Welcome Nani, <%= user %></h1>
 
     <div class="balance <%= (total < 0) ? "negative" : "" %>">
         ₹ <%= total %>
