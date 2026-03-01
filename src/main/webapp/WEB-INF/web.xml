@@ -2,13 +2,13 @@
          version="5.0">
 
     <servlet>
-        <servlet-name>BudgetServlet</servlet-name>
-        <servlet-class>com.example.BudgetServlet</servlet-class>
+        <servlet-name>ExpenseServlet</servlet-name>
+        <servlet-class>com.tracker.ExpenseServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
-        <servlet-name>BudgetServlet</servlet-name>
-        <url-pattern>/budget</url-pattern>
+        <servlet-name>ExpenseServlet</servlet-name>
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
 
 </web-app>
