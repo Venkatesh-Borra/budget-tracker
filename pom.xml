@@ -19,6 +19,6 @@
     </dependencies>
 
     <build>
-        <finalName>budget-loan-tracker</finalName>
+        <finalName>budget-loan-tracker-nani</finalName>
     </build>
 </project>
